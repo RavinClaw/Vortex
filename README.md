@@ -3,7 +3,7 @@
 
 # Index
 [Updates](https://github.com/RavinClaw/Vortex/blob/main/README.md#updates)
-[Files] (https://github.com/RavinClaw/Vortex/blob/main/README.md#files)
+[Files](https://github.com/RavinClaw/Vortex/blob/main/README.md#files)
 
 
 # Updates
