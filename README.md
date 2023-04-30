@@ -2,7 +2,8 @@
 ## A Personal Project
 
 # Index
-[Updates](https://github.com/RavinClaw/Vortex)
+[Updates](https://github.com/RavinClaw/Vortex/blob/main/README.md#updates)
+[Files] (https://github.com/RavinClaw/Vortex/blob/main/README.md#files)
 
 
 # Updates
